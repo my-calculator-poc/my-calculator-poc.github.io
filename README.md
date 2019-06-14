@@ -14,3 +14,4 @@ Design a mobile solution with the following Design:
 References:
 
 - https://cloud-samples.spring.io/spring-cloud-contract-samples/workshops.html
+- https://www.oreilly.com/library/view/hands-on-guide-to/9780135598436/
