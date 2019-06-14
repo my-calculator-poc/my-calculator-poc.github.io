@@ -5,10 +5,10 @@ The meta repo organize the operations for the POC
 
 Design a mobile solution with the following Design:
 
-| FRONT-END |     | BACKEND (First Layer) |     | BACKEND (Second Layer) |   |
-|-----------|-----|-----------------------|-----|------------------------|---|
-| My Client | SCC | My Calculator API     | SCC | My Sum API             |   |
-|           |     |                       | SCC | My Multiply API        |   |
+| FRONT-END |     | BACKEND (First Layer)  |     | BACKEND (Second Layer) |   |
+|-----------|-----|------------------------|-----|------------------------|---|
+| My Client | SCC | My Calculator API      | SCC | My Sum API             |   |
+|           |     | Another-Calculator-API | SCC | My Multiply API        |   |
 
 
 References:
