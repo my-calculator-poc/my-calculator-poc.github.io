@@ -13,7 +13,7 @@ Design a mobile solution with the following Design:
 ## CI
 
 - My Calculator API [![Build Status](https://travis-ci.org/my-calculator-poc/My-Calculator-API.svg?branch=master)](https://travis-ci.org/my-calculator-poc/My-Calculator-API)
-- My Sum AP [![Build Status](https://travis-ci.org/my-calculator-poc/My-Sum-API.svg?branch=master)](https://travis-ci.org/my-calculator-poc/My-Sum-API)
+- My Sum API [![Build Status](https://travis-ci.org/my-calculator-poc/My-Sum-API.svg?branch=master)](https://travis-ci.org/my-calculator-poc/My-Sum-API)
 
 ## References:
 
