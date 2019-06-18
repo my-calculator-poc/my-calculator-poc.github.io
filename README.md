@@ -7,7 +7,7 @@ Design a mobile solution with the following Design:
 
 | FRONT-END |     | BACKEND (First Layer)  |     | BACKEND (Second Layer) |   |
 |-----------|-----|------------------------|-----|------------------------|---|
-| My Client | SCC | My Calculator API      | SCC | My Sum AP              |   |
+| My Client | SCC | My Calculator API      | SCC | My Sum API             |   |
 |           | SCC | Another Calculator API | SCC | My Multiply API        |   |
 
 ## CI
