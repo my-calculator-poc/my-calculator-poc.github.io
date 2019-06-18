@@ -7,7 +7,9 @@ Design a mobile solution with the following Design:
 
 | FRONT-END |     | BACKEND (First Layer)  |     | BACKEND (Second Layer) |   |
 |-----------|-----|------------------------|-----|------------------------|---|
-| My Client | SCC | My Calculator API      | SCC | My Sum API             |   |
+| My Client | SCC | My Calculator API  [![Build Status](https://travis-ci.org/my-calculator-poc/My-Calculator-API.svg?branch=master)](https://travis-ci.org/my-calculator-poc/My-Calculator-API)
+    | SCC | My Sum API [![Build Status](https://travis-ci.org/my-calculator-poc/My-Sum-API.svg?branch=master)](https://travis-ci.org/my-calculator-poc/My-Sum-API)
+            |   |
 |           | SCC | Another Calculator API | SCC | My Multiply API        |   |
 
 
