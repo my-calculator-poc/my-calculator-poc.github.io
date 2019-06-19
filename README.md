@@ -18,6 +18,9 @@ The POC include 2 repositories to store contracts from multiple domains in the C
 In a Integration Tests, it is possible to use with the help of StubRunnerRule (Pending Test):
 https://cloud.spring.io/spring-cloud-static/Greenwich.RELEASE/multi/multi__spring_cloud_contract_stub_runner.html
 
+To use the contracts for a mobile consumer, it is possible to use a Docker image or Docker compose:
+https://cloud.spring.io/spring-cloud-contract/spring-cloud-contract.html#stubrunner-docker
+
 ## CI
 
 - My Calculator API [![Build Status](https://travis-ci.org/my-calculator-poc/My-Calculator-API.svg?branch=master)](https://travis-ci.org/my-calculator-poc/My-Calculator-API)
@@ -28,3 +31,6 @@ https://cloud.spring.io/spring-cloud-static/Greenwich.RELEASE/multi/multi__sprin
 
 - https://cloud-samples.spring.io/spring-cloud-contract-samples/workshops.html
 - https://www.oreilly.com/library/view/hands-on-guide-to/9780135598436/
+- https://cloud.spring.io/spring-cloud-contract/spring-cloud-contract.html
+- https://cloud.spring.io/spring-cloud-static/Greenwich.RELEASE/multi/multi__spring_cloud_contract.html
+- https://cloud.spring.io/spring-cloud-contract/spring-cloud-contract-maven-plugin/complex.html
