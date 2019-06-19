@@ -10,10 +10,19 @@ Design a mobile solution with the following Design:
 | My Client | SCC | My Calculator API      | SCC | My Sum API             |   |
 |           | SCC | Another Calculator API | SCC | My Multiply API        |   |
 
+The POC include 2 repositories to store contracts from multiple domains in the Calculator Universe
+
+https://github.com/my-calculator-poc/my-calculator-contracts-center-domain1
+https://github.com/my-calculator-poc/my-calculator-contracts-center-domain2
+
+In a Integration Tests, it is possible to use with the help of StubRunnerRule (Pending Testing):
+https://cloud.spring.io/spring-cloud-static/Greenwich.RELEASE/multi/multi__spring_cloud_contract_stub_runner.html
+
 ## CI
 
 - My Calculator API [![Build Status](https://travis-ci.org/my-calculator-poc/My-Calculator-API.svg?branch=master)](https://travis-ci.org/my-calculator-poc/My-Calculator-API)
 - My Sum API [![Build Status](https://travis-ci.org/my-calculator-poc/My-Sum-API.svg?branch=master)](https://travis-ci.org/my-calculator-poc/My-Sum-API)
+- My Multiply API
 
 ## References:
 
