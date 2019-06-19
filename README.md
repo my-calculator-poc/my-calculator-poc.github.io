@@ -10,7 +10,7 @@ Design a mobile solution with the following Design:
 | My Client | SCC | My Calculator API      | SCC | My Sum API             |   |
 |           | SCC | Another Calculator API | SCC | My Multiply API        |   |
 
-The POC include 2 repositories to store contracts from multiple domains in the Calculator Universe
+The POC includes 2 repositories to store contracts from multiple domains in the Calculator Universe
 
 - https://github.com/my-calculator-poc/my-calculator-contracts-center-domain1
 - https://github.com/my-calculator-poc/my-calculator-contracts-center-domain2
