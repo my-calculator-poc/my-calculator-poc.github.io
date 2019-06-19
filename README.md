@@ -17,7 +17,7 @@ The POC includes 2 repositories to store contracts from multiple domains in the 
 - https://github.com/my-calculator-poc/my-calculator-contracts-center-domain1
 - https://github.com/my-calculator-poc/my-calculator-contracts-center-domain2
 
-**Organize contracts by Domain**
+**Integration Tests**
 
 In a Integration Tests, it is possible to use with the help of **StubRunnerRule** (Pending Test) contracts from multiple domains, the usage of **@AutoConfigureStubRunner** is limited to only one Git repo:
 https://cloud.spring.io/spring-cloud-static/Greenwich.RELEASE/multi/multi__spring_cloud_contract_stub_runner.html
